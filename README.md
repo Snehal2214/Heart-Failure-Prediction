@@ -1,2 +1,2 @@
-# PRODIGY_DS_01
+# Heart-Failure-Prediction
 Prediction of chances of Heart-Failure using Machine Learning Techniques.
